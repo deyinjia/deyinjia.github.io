@@ -4,8 +4,6 @@ permalink: /teaching/index.html
 title: Teaching
 ---
 
-# Teaching Experiences
-
 ## Teaching Faculty (Instructor) at Boston College:
 
 - Statistics, ECON1151.03 & Econ1151.04, Fall 2022 

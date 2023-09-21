@@ -6,7 +6,7 @@ title: Research
 
 ## Working Papers
 
-- [The Impact of Pension Reform on Households’ Education Spending](https://deyinjia.github.io/file/JMP-DeyinJIA.pdf)
+- [The Impact of Pension Reform on Households’ Educational Investment](https://deyinjia.github.io/mypaper/JMP-DeyinJIA.pdf)
 <!---    - Abstract -->
 
 - Does Affirmative Action Discourage Its Beneficiaries? Evidence from A Natural Experiment in Chinese College Admissions

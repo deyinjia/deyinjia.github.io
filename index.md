@@ -6,9 +6,9 @@ layout: page
 
 <img src="https://deyinjia.github.io/deyinjia.jpg" class="floatpic" width="360" height="480">
 
-Welcome to my website! Here is **Deyin Jia (Jasmine, [贾德音])**.
+Welcome to my website! Here is **Deyin Jia (Jasmine, 贾德音)**.
 
-I am a Ph.D. candidate in **Economics** at Boston College. Currently, I am working as a Graduate Statistical Consultant in the **Research Services at Boston College**
+I am a Ph.D. candidate in **Economics** at Boston College. Currently, I am working as a Graduate Statistical Consultant in the **Research Services** at Boston College.
 
 I am in the 2023/2024 job market and will be available for interviews. 
 

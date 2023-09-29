@@ -9,10 +9,10 @@ title: Research
 - [The Impact of Pension Reform on Households’ Educational Investment](file/JMP-DeyinJIA.pdf)
 <!---    - Abstract -->
 
-- Does Affirmative Action Discourage Its Beneficiaries? Evidence from A Natural Experiment in Chinese College Admissions
+- Does Affirmative Action Discourage Its Beneficiaries? Evidence from A Natural Experiment in Chinese College Admissions (with Kewei Zhang)
 <!---    - Abstract -->
 
-- Is Having a Brother Good for Women? A Study of Gender Discrimination in Family Education Investment
+- Is Having a Brother Good for Women? A Study of Gender Discrimination in Family Education Investment （with Yixuan Liu）
 <!---    - Abstract -->
 
 

@@ -3,6 +3,9 @@ layout: page
 permalink: /teaching/index.html
 title: Teaching
 ---
+## Presenter for [Stata Tutorial](https://www.bc.edu/bc-web/offices/its/services/research-services/tutorials.html#tab-intro_to_stata_1_getting_started_descriptive_stats_do_files) at Boston College:
+
+- A 1.5-hour session to non-economics faculty, graduate and undergraduate students
 
 ## Teaching Faculty (Instructor) at Boston College:
 
@@ -23,5 +26,5 @@ title: Teaching
 
 _(Teaching evaluations available upon request)_
 
-## Honor
+## Award
 - [The Donald J. White Excellence in Teaching Award](https://www.bc.edu/bc-web/academics/sites/center-for-teaching-excellence/programs-events/graduate-student-programs/graduate-student-teaching-recognition-ceremony.html), April 2023

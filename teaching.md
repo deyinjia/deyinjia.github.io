@@ -7,7 +7,7 @@ title: Teaching
 
 - A 1.5-hour session to non-economics faculty, graduate and undergraduate students
 
-## Teaching Faculty (Instructor) at Boston College:
+## Teaching Fellow (Instructor) at Boston College:
 
 - Statistics, ECON1151.03 & Econ1151.04, Fall 2022 
 

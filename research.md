@@ -19,6 +19,6 @@ title: Research
 
 ## Work in Progress
 
-- Labor Force Dynamics in China: Evidence from CHARLS (with Xuejie Yi)
-
 - Research on the Efficiency of China’s Mutual Fund - Based on a Two-stage Network DEA Model
+
+<!--- - Labor Force Dynamics in China: Evidence from CHARLS (with Xuejie Yi)> 

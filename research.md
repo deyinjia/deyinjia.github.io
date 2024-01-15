@@ -6,7 +6,7 @@ title: Research
 
 ## Working Papers
 
-- [The Impact of Pension Reform on Households’ Educational Investment](file/JMP-DeyinJIA.pdf)
+- [The Impact of Pension Reform on Households’ Educational Investment](file/JMP-DeyinJIA.pdf) (with Sun Wei and Xuejie Yi)
 <!---    - Abstract -->
 
 - Does Affirmative Action Discourage Its Beneficiaries? Evidence from A Natural Experiment in Chinese College Admissions (with Kewei Zhang)

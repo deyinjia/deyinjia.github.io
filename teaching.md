@@ -5,7 +5,7 @@ title: Teaching
 ---
 ## Presenter for [Stata Tutorial](https://www.bc.edu/bc-web/offices/its/services/research-services/tutorials.html#tab-intro_to_stata_1_getting_started_descriptive_stats_do_files) at Boston College:
 
-- A 1.5-hour session to non-economics faculty, graduate and undergraduate students
+- Stata Tutorial 1, a 1.5-hour session to non-economics faculty, graduate and undergraduate students, Fall 2023
 
 ## Teaching Fellow (Instructor) at Boston College:
 
